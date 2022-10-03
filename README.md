@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/NIKHIL5771/NIKHIL5771/blob/main/COMPUTER%20SCIENCE%20ENGINEER.jpg)
 <h1 align="center">Hi 👋, I'm Nikhil Mahajan</h1>
 <h3 align="center">A passionate developer from India</h3>
 
