@@ -1,8 +1,8 @@
 ![logo](https://github.com/NIKHIL5771/NIKHIL5771/blob/main/COMPUTER%20SCIENCE%20ENGINEER.jpg)
-<h1 align="center">Hi 👋, I'm Nikhil Mahajan</h1>
+<h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt="Coding" width="528" src="https://user-images.githubusercontent.com/83577426/193668943-9e586b70-7349-42a6-8c3d-7fe6e5478b81.png">
+<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/83577426/193668943-9e586b70-7349-42a6-8c3d-7fe6e5478b81.png">
 
 
 <p align="left"> <a href="https://twitter.com/nikhil8_nm" target="blank"><img src="https://img.shields.io/twitter/follow/nikhil8_nm?logo=twitter&style=for-the-badge" alt="nikhil8_nm" /></a> </p>
