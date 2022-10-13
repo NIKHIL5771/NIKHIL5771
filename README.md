@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nikhil8.nm.nm@gmail.com**
 
-- ⚡ Fun fact **If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.**
+- ⚡If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
