@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/nikhil8_nm" target="blank"><img src="https://img.shields.io/twitter/follow/nikhil8_nm?logo=twitter&style=for-the-badge" alt="nikhil8_nm" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Java Development**
 
-- 💬 Ask me about **Java, Android development**
+- 💬 Ask me about **Java, Web Development**
 
 - 📫 How to reach me **nikhil8.nm.nm@gmail.com**
 
